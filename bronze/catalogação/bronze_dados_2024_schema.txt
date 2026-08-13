@@ -1,0 +1,403 @@
+p0_a_token	string	0.a_token
+p0_d_data_hora_envio	string	0.d_data/hora_envio
+p1_a_idade	string	1.a_idade
+p1_a_1_faixa_idade	string	1.a.1_faixa_idade
+p1_b_genero	string	1.b_genero
+p1_c_cor_raca_etnia	string	1.c_cor/raca/etnia
+p1_d_pcd	string	1.d_pcd
+p1_e_experiencia_profissional_prejudicada	string	1.e_experiencia_profissional_prejudicada
+p1_e_1_nao_acredito_que_minha_experiencia_profissional_seja_afetada	string	1.e.1_Não acredito que minha experiência profissional seja afetada
+p1_e_2_sim_devido_a_minha_cor_raca_etnia	string	1.e.2_Sim, devido a minha Cor/Raça/Etnia
+p1_e_3_sim_devido_a_minha_identidade_de_genero	string	1.e.3_Sim, devido a minha identidade de gênero
+p1_e_4_sim_devido_ao_fato_de_ser_pcd	string	1.e.4_Sim, devido ao fato de ser PCD
+p1_i_1_uf_onde_mora	string	1.i.1_uf_onde_mora
+p1_f_1_quantidade_de_oportunidades_de_emprego_vagas_recebidas	string	1.f.1_Quantidade de oportunidades de emprego/vagas recebidas
+p1_f_2_senioridade_das_vagas_recebidas_em_relacao_a_sua_experiencia	string	1.f.2_Senioridade das vagas recebidas em relação à sua experiência
+p1_f_3_aprovacao_em_processos_seletivos_entrevistas	string	1.f.3_Aprovação em processos seletivos/entrevistas
+p1_f_4_oportunidades_de_progressao_de_carreira	string	1.f.4_Oportunidades de progressão de carreira
+p1_f_5_velocidade_de_progressao_de_carreira	string	1.f.5_Velocidade de progressão de carreira
+p1_f_6_nivel_de_cobranca_no_trabalho_stress_no_trabalho	string	1.f.6_Nível de cobrança no trabalho/Stress no trabalho
+p1_f_7_atencao_dada_pelas_pessoas_diante_das_minhas_opinioes_e_ideias	string	1.f.7_Atenção dada pelas pessoas diante das minhas opiniões e ideias
+p1_f_8_relacao_com_outras_pessoas_da_empresa_em_momentos_de_trabalho	string	1.f.8_Relação com outras pessoas da empresa, em momentos de trabalho
+p1_f_9_relacao_com_outras_pessoas_da_empresa_em_momentos_de_integracao_e_outros_momentos_fora_do_trabalho	string	1.f.9_Relação com outras pessoas da empresa, em momentos de integração e outros momentos fora do trabalho
+p1_i_2_regiao_onde_mora	string	1.i.2_regiao_onde_mora
+p1_f_aspectos_prejudicados	string	1.f_aspectos_prejudicados
+p1_k_1_uf_de_origem	string	1.k.1_uf_de_origem
+p1_k_2_regiao_de_origem	string	1.k.2_regiao_de_origem
+p1_g_vive_no_brasil	string	1.g_vive_no_brasil
+p1_h_pais_onde_mora	string	1.h_pais_onde_mora
+p1_i_estado_onde_mora	string	1.i_estado_onde_mora
+p1_j_vive_no_estado_de_formacao	string	1.j_vive_no_estado_de_formacao
+p1_k_estado_de_origem	string	1.k_estado_de_origem
+p1_l_nivel_de_ensino	string	1.l_nivel_de_ensino
+p1_m_area_de_formacao	string	1.m_área_de_formação
+p2_a_situacao_de_trabalho	string	2.a_situação_de_trabalho
+p2_b_setor	string	2.b_setor
+p2_c_numero_de_funcionarios	string	2.c_numero_de_funcionarios
+p2_d_atua_como_gestor	string	2.d_atua_como_gestor
+p2_e_cargo_como_gestor	string	2.e_cargo_como_gestor
+p2_f_cargo_atual	string	2.f_cargo_atual
+p2_g_nivel	string	2.g_nivel
+p2_h_faixa_salarial	string	2.h_faixa_salarial
+p2_i_tempo_de_experiencia_em_dados	string	2.i_tempo_de_experiencia_em_dados
+p2_j_tempo_de_experiencia_em_ti	string	2.j_tempo_de_experiencia_em_ti
+p2_k_satisfeito_atualmente	string	2.k_satisfeito_atualmente
+p2_l_1_remuneracao_salario	string	2.l.1_Remuneração/Salário
+p2_l_2_beneficios	string	2.l.2_Benefícios
+p2_l_3_proposito_do_trabalho_e_da_empresa	string	2.l.3_Propósito do trabalho e da empresa
+p2_l_4_flexibilidade_de_trabalho_remoto	string	2.l.4_Flexibilidade de trabalho remoto
+p2_l_5_ambiente_e_clima_de_trabalho	string	2.l.5_Ambiente e clima de trabalho
+p2_l_6_oportunidade_de_aprendizado_e_trabalhar_com_referencias	string	2.l.6_Oportunidade de aprendizado e trabalhar com referências
+p2_l_7_oportunidades_de_crescimento	string	2.l.7_Oportunidades de crescimento
+p2_l_8_maturidade_da_empresa_em_termos_de_tecnologia_e_dados	string	2.l.8_Maturidade da empresa em termos de tecnologia e dados
+p2_l_9_relacao_com_os_gestores_e_lideres	string	2.l.9_Relação com os gestores e líderes
+p2_l_10_reputacao_que_a_empresa_tem_no_mercado	string	2.l.10_Reputação que a empresa tem no mercado
+p2_l_11_gostaria_de_trabalhar_em_outra_area	string	2.l.11_Gostaria de trabalhar em outra área
+p2_l_motivo_insatisfacao	string	2.l_motivo_insatisfacao
+p2_m_participou_de_entrevistas_ultimos_6m	string	2.m_participou_de_entrevistas_ultimos_6m
+p2_n_planos_de_mudar_de_emprego_6m	string	2.n_planos_de_mudar_de_emprego_6m
+p2_o_criterios_para_escolha_de_emprego	string	2.o_criterios_para_escolha_de_emprego
+p2_o_1_remuneracao_salario	string	2.o.1_Remuneração/Salário
+p2_o_2_beneficios	string	2.o.2_Benefícios
+p2_o_3_proposito_do_trabalho_e_da_empresa	string	2.o.3_Propósito do trabalho e da empresa
+p2_o_4_flexibilidade_de_trabalho_remoto	string	2.o.4_Flexibilidade de trabalho remoto
+p2_o_5_ambiente_e_clima_de_trabalho	string	2.o.5_Ambiente e clima de trabalho
+p2_o_6_oportunidade_de_aprendizado_e_trabalhar_com_referencias	string	2.o.6_Oportunidade de aprendizado e trabalhar com referências
+p2_o_7_plano_de_carreira_e_oportunidades_de_crescimento	string	2.o.7_Plano de carreira e oportunidades de crescimento
+p2_o_8_maturidade_da_empresa_em_termos_de_tecnologia_e_dados	string	2.o.8_Maturidade da empresa em termos de tecnologia e dados
+p2_o_9_qualidade_dos_gestores_e_lideres	string	2.o.9_Qualidade dos gestores e líderes
+p2_o_10_reputacao_que_a_empresa_tem_no_mercado	string	2.o.10_Reputação que a empresa tem no mercado
+p2_q_empresa_passou_por_layoff_em_2024	string	2.q_empresa_passou_por_layoff_em_2024
+p2_r_modelo_de_trabalho_atual	string	2.r_modelo_de_trabalho_atual
+p2_s_modelo_de_trabalho_ideal	string	2.s_modelo_de_trabalho_ideal
+p2_t_atitude_em_caso_de_retorno_presencial	string	2.t_atitude_em_caso_de_retorno_presencial
+p3_a_numero_de_pessoas_em_dados	string	3.a_numero_de_pessoas_em_dados
+p3_b_cargos_no_time_de_dados_da_empresa	string	3.b_cargos_no_time_de_dados_da_empresa
+p3_b_1_analytics_engineer	string	3.b.1_Analytics Engineer
+p3_b_2_engenharia_de_dados_data_engineer	string	3.b.2_Engenharia de Dados/Data Engineer
+p3_b_3_analista_de_dados_data_analyst	string	3.b.3_Analista de Dados/Data Analyst
+p3_b_4_cientista_de_dados_data_scientist	string	3.b.4_Cientista de Dados/Data Scientist
+p3_b_5_database_administrator_dba	string	3.b.5_Database Administrator/DBA
+p3_b_6_analista_de_business_intelligence_bi	string	3.b.6_Analista de Business Intelligence/BI
+p3_b_7_arquiteto_de_dados_data_architect	string	3.b.7_Arquiteto de Dados/Data Architect
+p3_b_8_data_product_manager_dpm	string	3.b.8_Data Product Manager/DPM
+p3_b_9_business_analyst	string	3.b.9_Business Analyst
+p3_b_10_ml_engineer_ai_engineer	string	3.b.10_ML Engineer/AI Engineer
+p3_c_responsabilidades_como_gestor	string	3.c_responsabilidades_como_gestor
+p3_c_1_pensar_na_visao_de_longo_prazo_de_dados	string	3.c.1_Pensar na visão de longo prazo de dados
+p3_c_2_organizacao_de_treinamentos_e_iniciativas	string	3.c.2_Organização de treinamentos e iniciativas
+p3_c_3_atracao_selecao_e_contratacao	string	3.c.3_Atração, seleção e contratação
+p3_c_4_decisao_sobre_contratacao_de_ferramentas	string	3.c.4_Decisão sobre contratação de ferramentas
+p3_c_5_gestor_da_equipe_de_engenharia_de_dados	string	3.c.5_gestor da equipe de engenharia de dados
+p3_c_6_gestor_da_equipe_de_estudos_relatorios	string	3.c.6_gestor da equipe de estudos, relatórios
+p3_c_7_gestor_da_equipe_de_inteligencia_artificial_e_machine_learning	string	3.c.7_gestor da equipe de Inteligência Artificial e Machine Learning
+p3_c_8_apesar_de_ser_gestor_ainda_atuo_na_parte_tecnica	string	3.c.8_Apesar de ser gestor ainda atuo na parte técnica
+p3_c_9_gestao_de_projetos_de_dados	string	3.c.9_Gestão de projetos de dados
+p3_c_10_gestao_de_produtos_de_dados	string	3.c.10_Gestão de produtos de dados
+p3_c_11_gestao_de_pessoas	string	3.c.11_Gestão de pessoas
+p3_d_desafios_como_gestor	string	3.d_desafios_como_gestor
+p3_d_1_contratar_talentos	string	3.d.1_Contratar talentos
+p3_d_2_reter_talentos	string	3.d.2_Reter talentos
+p3_d_3_convencer_a_empresa_a_aumentar_investimentos	string	3.d.3_Convencer a empresa a aumentar investimentos
+p3_d_4_gestao_de_equipes_no_ambiente_remoto	string	3.d.4_Gestão de equipes no ambiente remoto
+p3_d_5_gestao_de_projetos_envolvendo_areas_multidisciplinares	string	3.d.5_Gestão de projetos envolvendo áreas multidisciplinares
+p3_d_6_organizar_as_informacoes_com_qualidade_e_confiabilidade	string	3.d.6_Organizar as informações com qualidade e confiabilidade
+p3_d_7_processar_e_armazenar_um_alto_volume_de_dados	string	3.d.7_Processar e armazenar um alto volume de dados
+p3_d_8_gerar_valor_para_as_areas_de_negocios	string	3.d.8_Gerar valor para as áreas de negócios
+p3_d_9_desenvolver_e_manter_modelos_machine_learning_em_producao	string	3.d.9_Desenvolver e manter modelos Machine Learning em produção
+p3_d_10_gerenciar_a_expectativa_das_areas	string	3.d.10_Gerenciar a expectativa das áreas
+p3_d_11_garantir_a_manutencao_dos_projetos_e_modelos_em_producao	string	3.d.11_Garantir a manutenção dos projetos e modelos em produção
+p3_d_12_conseguir_levar_inovacao_para_a_empresa	string	3.d.12_Conseguir levar inovação para a empresa
+p3_d_13_garantir_roi_em_projetos_de_dados	string	3.d.13_Garantir (ROI) em projetos de dados
+p3_d_14_dividir_o_tempo_entre_entregas_tecnicas_e_gestao	string	3.d.14_Dividir o tempo entre entregas técnicas e gestão
+p3_e_ai_generativa_e_llm_e_uma_prioridade	string	3.e_ai_generativa_e_llm_é_uma_prioridade?
+p3_f_tipo_de_uso_de_ai_generativa_e_llm_na_empresa	string	3.f_tipo_de_uso_de_ai_generativa_e_llm_na_empresa
+p3_f_1_colaboradores_usando_ai_generativa_de_forma_independente_e_descentralizada	string	3.f.1 Colaboradores usando AI generativa de forma independente e descentralizada
+p3_f_2_direcionamento_centralizado_do_uso_de_ai_generativa	string	3.f.2 Direcionamento centralizado do uso de AI generativa
+p3_f_3_desenvolvedores_utilizando_copilots	string	3.f.3 Desenvolvedores utilizando Copilots
+p3_f_4_ai_generativa_e_llms_para_melhorar_produtos_externos_para_os_clientes_finais	string	3.f.4 AI Generativa e LLMs para melhorar produtos externos para os clientes finais
+p3_f_5_ai_generativa_e_llms_para_melhorar_produtos_internos_para_os_colaboradores	string	3.f.5 AI Generativa e LLMs para melhorar produtos internos para os colaboradores
+p3_f_6_ia_generativa_e_llms_como_principal_frente_do_negocio	string	3.f.6 IA Generativa e LLMs como principal frente do negócio
+p3_f_7_ia_generativa_e_llms_nao_e_prioridade	string	3.f.7 IA Generativa e LLMs não é prioridade
+p3_f_8_nao_sei_opinar_sobre_o_uso_de_ia_generativa_e_llms_na_empresa	string	3.f.8 Não sei opinar sobre o uso de IA Generativa e LLMs na empresa
+p3_g_motivos_para_nao_usar_ai_generativa_e_llm	string	3.g_motivos_para_não_usar_ai_generativa_e_llm
+p3_g_1_falta_de_compreensao_dos_casos_de_uso	string	3.g.1 Falta de compreensão dos casos de uso
+p3_g_2_falta_de_confiabilidade_das_saidas_alucinacao_dos_modelos	string	3.g.2 Falta de confiabilidade das saídas (alucinação dos modelos)
+p3_g_3_incerteza_em_relacao_a_regulamentacao	string	3.g.3 Incerteza em relação a regulamentação
+p3_g_4_preocupacoes_com_seguranca_e_privacidade_de_dados	string	3.g.4 Preocupações com segurança e privacidade de dados
+p3_g_5_retorno_sobre_investimento_roi_nao_comprovado_de_ia_generativa	string	3.g.5 Retorno sobre investimento (ROI) não comprovado de IA Generativa
+p3_g_6_dados_da_empresa_nao_estao_prontos_para_uso_de_ia_generativa	string	3.g.6 Dados da empresa não estão prontos para uso de IA Generativa
+p3_g_7_falta_de_expertise_ou_falta_de_recursos	string	3.g.7 Falta de expertise ou falta de recursos
+p3_g_8_alta_direcao_da_empresa_nao_ve_valor_ou_nao_ve_como_prioridade	string	3.g.8 Alta direção da empresa não vê valor ou não vê como prioridade
+p3_g_9_preocupacoes_com_propriedade_intelectual	string	3.g.9 Preocupações com propriedade intelectual
+p4_a_funcao_de_atuacao	string	4.a_funcao_de_atuacao
+p4_a_1_atuacao_em_dados	string	4.a.1_atuacao_em_dados
+p4_b_fontes_de_dados_dia_a_dia	string	4.b_fontes_de_dados_(dia_a_dia)
+p4_b_1_dados_relacionais_estruturados_em_bancos_sql	string	4.b.1_Dados relacionais (estruturados em bancos SQL)
+p4_b_2_dados_armazenados_em_bancos_nosql	string	4.b.2_Dados armazenados em bancos NoSQL
+p4_b_3_imagens	string	4.b.3_Imagens
+p4_b_4_textos_documentos	string	4.b.4_Textos/Documentos
+p4_b_5_videos	string	4.b.5_Vídeos
+p4_b_6_audios	string	4.b.6_Áudios
+p4_b_7_planilhas	string	4.b.7_Planilhas
+p4_b_8_dados_georeferenciados	string	4.b.8_Dados georeferenciados
+p4_c_fonte_de_dado_mais_usada	string	4.c_fonte_de_dado_mais_usada
+p4_c_1_dados_relacionais_estruturados_em_bancos_sql	string	4.c.1_Dados relacionais (estruturados em bancos SQL)
+p4_c_2_dados_armazenados_em_bancos_nosql	string	4.c.2_Dados armazenados em bancos NoSQL
+p4_c_3_imagens	string	4.c.3_Imagens
+p4_c_4_textos_documentos	string	4.c.4_Textos/Documentos
+p4_c_5_videos	string	4.c.5_Vídeos
+p4_c_6_audios	string	4.c.6_Áudios
+p4_c_7_planilhas	string	4.c.7_Planilhas
+p4_c_8_dados_georeferenciados	string	4.c.8_Dados georeferenciados
+p4_d_linguagem_de_programacao_dia_a_dia	string	4.d_linguagem_de_programacao_(dia_a_dia)
+p4_d_1_sql	string	4.d.1_SQL
+p4_d_2_r	string	4.d.2_R
+p4_d_3_python	string	4.d.3_Python
+p4_d_4_c_c_c	string	4.d.4_C/C++/C#
+p4_d_5_net	string	4.d.5_.NET
+p4_d_6_java	string	4.d.6_Java
+p4_d_7_julia	string	4.d.7_Julia
+p4_d_8_sas_stata	string	4.d.8_SAS/Stata
+p4_d_9_visual_basic_vba	string	4.d.9_Visual Basic/VBA
+p4_d_10_scala	string	4.d.10_Scala
+p4_d_11_matlab	string	4.d.11_Matlab
+p4_d_12_rust	string	4.d.12_Rust
+p4_d_13_php	string	4.d.13_PHP
+p4_d_14_javascript	string	4.d.14_JavaScript
+p4_d_15_nao_utilizo_nenhuma_das_linguagens_listadas	string	4.d.15_Não utilizo nenhuma das linguagens listadas
+p4_e_linguagem_mais_usada	string	4.e_linguagem_mais_usada
+p4_f_linguagem_preferida	string	4.f_linguagem_preferida
+p4_g_banco_de_dados_dia_a_dia	string	4.g_banco_de_dados_(dia_a_dia)
+p4_g_1_mysql	string	4.g.1_MySQL
+p4_g_2_oracle	string	4.g.2_Oracle
+p4_g_3_sql_server	string	4.g.3_SQL SERVER
+p4_g_4_amazon_aurora_ou_rds	string	4.g.4_Amazon Aurora ou RDS
+p4_g_5_dynamodb	string	4.g.5_DynamoDB
+p4_g_6_coachdb	string	4.g.6_CoachDB
+p4_g_7_cassandra	string	4.g.7_Cassandra
+p4_g_8_mongodb	string	4.g.8_MongoDB
+p4_g_9_mariadb	string	4.g.9_MariaDB
+p4_g_10_datomic	string	4.g.10_Datomic
+p4_g_11_s3	string	4.g.11_S3
+p4_g_12_postgresql	string	4.g.12_PostgreSQL
+p4_g_13_elasticsearch	string	4.g.13_ElasticSearch
+p4_g_14_db2	string	4.g.14_DB2
+p4_g_15_microsoft_access	string	4.g.15_Microsoft Access
+p4_g_16_sqlite	string	4.g.16_SQLite
+p4_g_17_sybase	string	4.g.17_Sybase
+p4_g_18_firebase	string	4.g.18_Firebase
+p4_g_19_vertica	string	4.g.19_Vertica
+p4_g_20_redis	string	4.g.20_Redis
+p4_g_21_neo4j	string	4.g.21_Neo4J
+p4_g_22_google_bigquery	string	4.g.22_Google BigQuery
+p4_g_23_google_firestore	string	4.g.23_Google Firestore
+p4_g_24_amazon_redshift	string	4.g.24_Amazon Redshift
+p4_g_25_amazon_athena	string	4.g.25_Amazon Athena
+p4_g_26_snowflake	string	4.g.26_Snowflake
+p4_g_27_databricks	string	4.g.27_Databricks
+p4_g_28_hbase	string	4.g.28_HBase
+p4_g_29_presto	string	4.g.29_Presto
+p4_g_30_splunk	string	4.g.30_Splunk
+p4_g_31_sap_hana	string	4.g.31_SAP HANA
+p4_g_32_hive	string	4.g.32_Hive
+p4_g_33_firebird	string	4.g.33_Firebird
+p4_h_cloud_dia_a_dia	string	4.h_cloud_(dia_a_dia)
+p4_h_1_amazon_web_services_aws	string	4.h.1_Amazon Web Services (AWS)
+p4_h_2_google_cloud_gcp	string	4.h.2_Google Cloud (GCP)
+p4_h_3_azure_microsoft	string	4.h.3_Azure (Microsoft)
+p4_h_4_oracle_cloud	string	4.h.4_Oracle Cloud
+p4_h_5_ibm	string	4.h.5_IBM
+p4_h_6_servidores_on_premise_nao_utilizamos_cloud	string	4.h.6_Servidores On Premise/Não utilizamos Cloud
+p4_h_7_cloud_propria	string	4.h.7_Cloud Própria
+p4_i_cloud_preferida	string	4.i_cloud_preferida
+p4_j_ferramenta_de_bi_dia_a_dia	string	4.j_ferramenta_de_bi_(dia_a_dia)
+p4_j_1_microsoft_powerbi	string	4.j.1_Microsoft PowerBI
+p4_j_2_qlik_view_qlik_sense	string	4.j.2_Qlik View/Qlik Sense
+p4_j_3_tableau	string	4.j.3_Tableau
+p4_j_4_metabase	string	4.j.4_Metabase
+p4_j_5_superset	string	4.j.5_Superset
+p4_j_6_redash	string	4.j.6_Redash
+p4_j_7_looker	string	4.j.7_Looker
+p4_j_8_looker_studio_google_data_studio	string	4.j.8_Looker Studio(Google Data Studio)
+p4_j_9_amazon_quicksight	string	4.j.9_Amazon Quicksight
+p4_j_10_alteryx	string	4.j.10_Alteryx
+p4_j_11_sap_business_objects_sap_analytics	string	4.j.11_SAP Business Objects/SAP Analytics
+p4_j_12_oracle_business_intelligence	string	4.j.12_Oracle Business Intelligence
+p4_j_13_salesforce_einstein_analytics	string	4.j.13_Salesforce/Einstein Analytics
+p4_j_14_sas_visual_analytics	string	4.j.14_SAS Visual Analytics
+p4_j_15_grafana	string	4.j.15_Grafana
+p4_j_16_pentaho	string	4.j.16_Pentaho
+p4_j_17_fazemos_todas_as_analises_utilizando_apenas_excel_ou_planilhas_do_google	string	4.j.17_Fazemos todas as análises utilizando apenas Excel ou planilhas do google
+p4_j_18_nao_utilizo_nenhuma_ferramenta_de_bi_no_trabalho	string	4.j.18_Não utilizo nenhuma ferramenta de BI no trabalho
+p4_k_ferramenta_de_bi_preferida	string	4.k_ferramenta_de_bi_preferida
+p4_l_tipo_de_uso_de_ai_generativa_e_llm_na_empresa	string	4.l_tipo_de_uso_de_ai_generativa_e_llm_na_empresa
+p4_l_1_colaboradores_usando_ai_generativa_de_forma_independente_e_descentralizada	string	4.l.1 Colaboradores usando AI generativa de forma independente e descentralizada
+p4_l_2_direcionamento_centralizado_do_uso_de_ai_generativa	string	4.l.2 Direcionamento centralizado do uso de AI generativa
+p4_l_3_desenvolvedores_utilizando_copilots	string	4.l.3 Desenvolvedores utilizando Copilots
+p4_l_4_ai_generativa_e_llms_para_melhorar_produtos_externos_para_os_clientes_finais	string	4.l.4 AI Generativa e LLMs para melhorar produtos externos para os clientes finais
+p4_l_5_ai_generativa_e_llms_para_melhorar_produtos_internos_para_os_colaboradores	string	4.l.5 AI Generativa e LLMs para melhorar produtos internos para os colaboradores
+p4_l_6_ia_generativa_e_llms_como_principal_frente_do_negocio	string	4.l.6 IA Generativa e LLMs como principal frente do negócio
+p4_l_7_ia_generativa_e_llms_nao_e_prioridade	string	4.l.7 IA Generativa e LLMs não é prioridade
+p4_l_8_nao_sei_opinar_sobre_o_uso_de_ia_generativa_e_llms_na_empresa	string	4.l.8 Não sei opinar sobre o uso de IA Generativa e LLMs na empresa
+p4_m_usa_chatgpt_ou_copilot_no_trabalho	string	4.m_usa_chatgpt_ou_copilot_no_trabalho?
+p4_m_1_nao_uso_solucoes_de_ai_generativa_com_foco_em_produtividade	string	4.m.1 Não uso soluções de AI Generativa com foco em produtividade
+p4_m_2_uso_solucoes_gratuitas_de_ai_generativa_com_foco_em_produtividade	string	4.m.2 Uso soluções gratuitas de AI Generativa com foco em produtividade
+p4_m_3_uso_e_pago_pelas_solucoes_de_ai_generativa_com_foco_em_produtividade	string	4.m.3 Uso e pago pelas soluções de AI Generativa com foco em produtividade
+p4_m_4_a_empresa_que_trabalho_paga_pelas_solucoes_de_ai_generativa_com_foco_em_produtividade	string	4.m.4 A empresa que trabalho paga pelas soluções de AI Generativa com foco em produtividade
+p4_m_5_uso_solucoes_do_tipo_copilot	string	4.m.5 Uso soluções do tipo Copilot
+p5_a_objetivo_na_area_de_dados	string	5.a_objetivo_na_area_de_dados
+p5_b_oportunidade_buscada	string	5.b_oportunidade_buscada
+p5_c_tempo_em_busca_de_oportunidade	string	5.c_tempo_em_busca_de_oportunidade
+p5_d_experiencia_em_processos_seletivos	string	5.d_experiencia_em_processos_seletivos
+p6_a_rotina_como_de	string	6.a_rotina_como_de
+p6_a_1_desenvolvo_pipelines_de_dados_utilizando_linguagens_de_programacao_como_python_scala_java_etc	string	6.a.1_Desenvolvo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.
+p6_a_2_realizo_construcoes_de_etl_s_em_ferramentas_como_pentaho_talend_dataflow_etc	string	6.a.2_Realizo construções de ETL's em ferramentas como Pentaho, Talend, Dataflow etc.
+p6_a_3_crio_consultas_atraves_da_linguagem_sql_para_exportar_informacoes_e_compartilhar_com_as_areas_de_negocio	string	6.a.3_Crio consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+p6_a_4_atuo_na_integracao_de_diferentes_fontes_de_dados_atraves_de_plataformas_proprietarias_como_stitch_data_fivetran_etc	string	6.a.4_Atuo na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.
+p6_a_5_modelo_solucoes_de_arquitetura_de_dados_criando_componentes_de_ingestao_de_dados_transformacao_e_recuperacao_da_informaca	string	6.a.5_Modelo soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.
+p6_a_6_desenvolvo_cuido_da_manutencao_de_repositorios_de_dados_baseados_em_streaming_de_eventos_como_data_lakes_e_data_lakehouse	string	6.a.6_Desenvolvo/cuido da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.
+p6_a_7_atuo_na_modelagem_dos_dados_com_o_objetivo_de_criar_conjuntos_de_dados_como_data_warehouses_data_marts_datasets_etc	string	6.a.7_Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts, Datasets etc.
+p6_a_8_cuido_da_qualidade_dos_dados_metadados_e_dicionario_de_dados	string	6.a.8_Cuido da qualidade dos dados, metadados e dicionário de dados.
+p6_a_9_nenhuma_das_opcoes_listadas_refletem_meu_dia_a_dia	string	6.a.9_Nenhuma das opções listadas refletem meu dia a dia.
+p6_b_ferramentas_etl_de	string	6.b_ferramentas_etl_de
+p6_b_1_scripts_python	string	6.b.1_Scripts Python
+p6_b_2_sql_stored_procedures	string	6.b.2_SQL & Stored Procedures
+p6_b_3_apache_airflow	string	6.b.3_Apache Airflow
+p6_b_4_apache_nifi	string	6.b.4_Apache NiFi
+p6_b_5_luigi	string	6.b.5_Luigi
+p6_b_6_aws_glue	string	6.b.6_AWS Glue
+p6_b_7_talend	string	6.b.7_Talend
+p6_b_8_pentaho	string	6.b.8_Pentaho
+p6_b_9_alteryx	string	6.b.9_Alteryx
+p6_b_10_stitch	string	6.b.10_Stitch
+p6_b_11_fivetran	string	6.b.11_Fivetran
+p6_b_12_google_dataflow	string	6.b.12_Google Dataflow
+p6_b_13_oracle_data_integrator	string	6.b.13_Oracle Data Integrator
+p6_b_14_ibm_datastage	string	6.b.14_IBM DataStage
+p6_b_15_sap_bw_etl	string	6.b.15_SAP BW ETL
+p6_b_16_sql_server_integration_services_ssis	string	6.b.16_SQL Server Integration Services (SSIS)
+p6_b_17_sas_data_integration	string	6.b.17_SAS Data Integration
+p6_b_18_qlik_sense	string	6.b.18_Qlik Sense
+p6_b_19_knime	string	6.b.19_Knime
+p6_b_20_databricks	string	6.b.20_Databricks
+p6_b_21_nao_utilizo_ferramentas_de_etl	string	6.b.21_Não utilizo ferramentas de ETL
+p6_c_possui_data_lake	string	6.c_possui_data_lake
+p6_d_tecnologia_data_lake	string	6.d_tecnologia_data_lake
+p6_e_possui_data_warehouse	string	6.e_possui_data_warehouse
+p6_f_tecnologia_data_warehouse	string	6.f_tecnologia_data_warehouse
+p6_g_ferramentas_de_qualidade_de_dados_dia_a_dia	string	6.g_ferramentas_de_qualidade_de_dados_(dia_a_dia)
+p6_h_maior_tempo_gasto_como_de	string	6.h_maior_tempo_gasto_como_de
+p6_h_1_desenvolvendo_pipelines_de_dados_utilizando_linguagens_de_programacao_como_python_scala_java_etc	string	6.h.1_Desenvolvendo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.
+p6_h_2_realizando_construcoes_de_etl_s_em_ferramentas_como_pentaho_talend_dataflow_etc	string	6.h.2_Realizando construções de ETL\s em ferramentas como Pentaho, Talend, Dataflow etc.
+p6_h_3_criando_consultas_atraves_da_linguagem_sql_para_exportar_informacoes_e_compartilhar_com_as_areas_de_negocio	string	6.h.3_Criando consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+p6_h_4_atuando_na_integracao_de_diferentes_fontes_de_dados_atraves_de_plataformas_proprietarias_como_stitch_data_fivetran_etc	string	6.h.4_Atuando na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.
+p6_h_5_modelando_solucoes_de_arquitetura_de_dados_criando_componentes_de_ingestao_de_dados_transformacao_e_recuperacao_da_inform	string	6.h.5_Modelando soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.
+p6_h_6_desenvolvendo_cuidando_da_manutencao_de_repositorios_de_dados_baseados_em_streaming_de_eventos_como_data_lakes_e_data_lak	string	6.h.6_Desenvolvendo/cuidando da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.
+p6_h_7_atuando_na_modelagem_dos_dados_com_o_objetivo_de_criar_conjuntos_de_dados_como_data_warehouses_data_marts_datasets_etc	string	6.h.7_Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts, Datasets etc.
+p6_h_8_cuidando_da_qualidade_dos_dados_metadados_e_dicionario_de_dados	string	6.h.8_Cuidando da qualidade dos dados, metadados e dicionário de dados.
+p6_h_9_nenhuma_das_opcoes_listadas_refletem_meu_dia_a_dia	string	6.h.9_Nenhuma das opções listadas refletem meu dia a dia.
+p7_a_rotina_como_da	string	7.a_rotina_como_da
+p7_a_1_processo_e_analiso_dados_utilizando_linguagens_de_programacao_como_python_r_etc	string	7.a.1_Processo e analiso dados utilizando linguagens de programação como Python, R etc.
+p7_a_2_realizo_construcoes_de_dashboards_em_ferramentas_de_bi_como_powerbi_tableau_looker_qlik_etc	string	7.a.2_Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.
+p7_a_3_crio_consultas_atraves_da_linguagem_sql_para_exportar_informacoes_e_compartilhar_com_as_areas_de_negocio	string	7.a.3_Crio consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+p7_a_4_utilizo_api_s_para_extrair_dados_e_complementar_minhas_analises	string	7.a.4_Utilizo API\s para extrair dados e complementar minhas análises.
+p7_a_5_realizo_experimentos_e_estudos_utilizando_metodologias_estatisticas_como_teste_de_hipotese_modelos_de_regressao_etc	string	7.a.5_Realizo experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.
+p7_a_6_desenvolvo_cuido_da_manutencao_de_etl_s_utilizando_tecnologias_como_talend_pentaho_airflow_dataflow_etc	string	7.a.6_Desenvolvo/cuido da manutenção de ETL\s utilizando tecnologias como Talend, Pentaho, Airflow, Dataflow etc.
+p7_a_7_atuo_na_modelagem_dos_dados_com_o_objetivo_de_criar_conjuntos_de_dados_como_data_warehouses_data_marts_etc	string	7.a.7_Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts etc.
+p7_a_8_desenvolvo_cuido_da_manutencao_de_planilhas_para_atender_as_areas_de_negocio	string	7.a.8_Desenvolvo/cuido da manutenção de planilhas para atender as áreas de negócio.
+p7_a_9_utilizo_ferramentas_avancadas_de_estatistica_como_sas_spss_stata_etc_para_realizar_analises_de_dados	string	7.a.9_Utilizo ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises de dados.
+p7_a_10_nenhuma_das_opcoes_listadas_refletem_meu_dia_a_dia	string	7.a.10_Nenhuma das opções listadas refletem meu dia a dia.
+p7_b_ferramentas_etl_da	string	7.b_ferramentas_etl_da
+p7_b_1_scripts_python	string	7.b.1_Scripts Python
+p7_b_2_sql_stored_procedures	string	7.b.2_SQL & Stored Procedures
+p7_b_3_apache_airflow	string	7.b.3_Apache Airflow
+p7_b_4_apache_nifi	string	7.b.4_Apache NiFi
+p7_b_5_luigi	string	7.b.5_Luigi
+p7_b_6_aws_glue	string	7.b.6_AWS Glue
+p7_b_7_talend	string	7.b.7_Talend
+p7_b_8_pentaho	string	7.b.8_Pentaho
+p7_b_9_alteryx	string	7.b.9_Alteryx
+p7_b_10_stitch	string	7.b.10_Stitch
+p7_b_11_fivetran	string	7.b.11_Fivetran
+p7_b_12_google_dataflow	string	7.b.12_Google Dataflow
+p7_b_13_oracle_data_integrator	string	7.b.13_Oracle Data Integrator
+p7_b_14_ibm_datastage	string	7.b.14_IBM DataStage
+p7_b_15_sap_bw_etl	string	7.b.15_SAP BW ETL
+p7_b_16_sql_server_integration_services_ssis	string	7.b.16_SQL Server Integration Services (SSIS)
+p7_b_17_sas_data_integration	string	7.b.17_SAS Data Integration
+p7_b_18_qlik_sense	string	7.b.18_Qlik Sense
+p7_b_19_knime	string	7.b.19_Knime
+p7_b_20_databricks	string	7.b.20_Databricks
+p7_b_21_nao_utilizo_ferramentas_de_etl	string	7.b.21_Não utilizo ferramentas de ETL
+p7_c_ferramentas_autonomia_area_de_negocios	string	7.c_ferramentas_autonomia_area_de_negocios
+p7_c_1_ferramentas_de_automl_como_h2o_ai_data_robot_bigml_etc	string	7.c.1_Ferramentas de AutoML como H2O.ai, Data Robot, BigML etc.
+p7_c_2_point_and_click_analytics_como_alteryx_knime_rapidminer_etc	string	7.c.2_"Point and Click" Analytics como Alteryx, Knime, Rapidminer etc.
+p7_c_3_product_metricts_insights_como_mixpanel_amplitude_adobe_analytics	string	7.c.3_Product metricts & Insights como Mixpanel, Amplitude, Adobe Analytics.
+p7_c_4_ferramentas_de_analise_dentro_de_ferramentas_de_crm_como_salesforce_einstein_anaytics_ou_zendesk_dashboards	string	7.c.4_Ferramentas de análise dentro de ferramentas de CRM como Salesforce Einstein Anaytics ou Zendesk dashboards.
+p7_c_5_minha_empresa_nao_utiliza_essas_ferramentas	string	7.c.5_Minha empresa não utiliza essas ferramentas.
+p7_c_6_nao_sei_informar	string	7.c.6_Não sei informar.
+p7_d_maior_tempo_gasto_como_da	string	7.d_maior_tempo_gasto_como_da
+p7_d_1_processando_e_analisando_dados_utilizando_linguagens_de_programacao_como_python_r_etc	string	7.d.1_Processando e analisando dados utilizando linguagens de programação como Python, R etc.
+p7_d_2_realizando_construcoes_de_dashboards_em_ferramentas_de_bi_como_powerbi_tableau_looker_qlik_etc	string	7.d.2_Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.
+p7_d_3_criando_consultas_atraves_da_linguagem_sql_para_exportar_informacoes_e_compartilhar_com_as_areas_de_negocio	string	7.d.3_Criando consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.
+p7_d_4_utilizando_api_s_para_extrair_dados_e_complementar_minhas_analises	string	7.d.4_Utilizando API's para extrair dados e complementar minhas análises.
+p7_d_5_realizando_experimentos_e_estudos_utilizando_metodologias_estatisticas_como_teste_de_hipotese_modelos_de_regressao_etc	string	7.d.5_Realizando experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.
+p7_d_6_desenvolvendo_cuidando_da_manutencao_de_etl_s_utilizando_tecnologias_como_talend_pentaho_airflow_dataflow_etc	string	7.d.6_Desenvolvendo/cuidando da manutenção de ETL's utilizando tecnologias como Talend, Pentaho, Airflow, Dataflow etc.
+p7_d_7_atuando_na_modelagem_dos_dados_com_o_objetivo_de_criar_conjuntos_de_dados_como_data_warehouses_data_marts_datasets_etc	string	7.d.7_Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts, Datasets etc.
+p7_d_8_desenvolvendo_cuidando_da_manutencao_de_planilhas_para_atender_as_areas_de_negocio	string	7.d.8_Desenvolvendo/cuidando da manutenção de planilhas para atender as áreas de negócio.
+p7_d_9_utilizando_ferramentas_avancadas_de_estatistica_como_sas_spss_stata_etc_para_realizar_analises_de_dados	string	7.d.9_Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises de dados.
+p7_d_10_nenhuma_das_opcoes_listadas_refletem_meu_dia_a_dia	string	7.d.10_Nenhuma das opções listadas refletem meu dia a dia.
+p8_a_rotina_como_ds	string	8.a_rotina_como_ds
+p8_a_1_estudos_ad_hoc_com_o_objetivo_de_confirmar_hipoteses_realizar_modelos_preditivos_forecasts_analise_de_cluster_para_resolv	string	8.a.1_Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos preditivos, forecasts, análise de cluster para resolver problemas pontuais e responder perguntas das áreas de negócio.
+p8_a_2_sou_responsavel_pela_coleta_e_limpeza_dos_dados_que_uso_para_analise_e_modelagem	string	8.a.2_Sou responsável pela coleta e limpeza dos dados que uso para análise e modelagem.
+p8_a_3_sou_responsavel_por_entrar_em_contato_com_os_times_de_negocio_para_definicao_do_problema_identificar_a_solucao_e_apresent	string	8.a.3_Sou responsável por entrar em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.
+p8_a_4_desenvolvo_modelos_de_machine_learning_com_o_objetivo_de_colocar_em_producao_em_sistemas_produtos_de_dados	string	8.a.4_Desenvolvo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).
+p8_a_5_sou_responsavel_por_colocar_modelos_em_producao_criar_os_pipelines_de_dados_apis_de_consumo_e_monitoramento	string	8.a.5_Sou responsável por colocar modelos em produção, criar os pipelines de dados, APIs de consumo e monitoramento.
+p8_a_6_cuido_da_manutencao_de_modelos_de_machine_learning_ja_em_producao_atuando_no_monitoramento_ajustes_e_refatoracao_quando_n	string	8.a.6_Cuido da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.
+p8_a_7_realizo_construcoes_de_dashboards_em_ferramentas_de_bi_como_powerbi_tableau_looker_qlik_etc	string	8.a.7_Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc
+p8_a_8_utilizo_ferramentas_avancadas_de_estatistica_como_sas_spss_stata_etc_para_realizar_analises	string	8.a.8_Utilizo ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises.
+p8_a_9_crio_e_dou_manutencao_em_etls_dags_e_automacoes_de_pipelines_de_dados	string	8.a.9_Crio e dou manutenção em ETLs, DAGs e automações de pipelines de dados.
+p8_a_10_crio_e_gerencio_solucoes_de_feature_store_e_cultura_de_mlops	string	8.a.10_Crio e gerencio soluções de Feature Store e cultura de MLOps.
+p8_a_11_sou_responsavel_por_criar_e_manter_a_infra_que_meus_modelos_e_solucoes_rodam_clusters_servidores_api_containers_etc	string	8.a.11_Sou responsável por criar e manter a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)
+p8_a_12_treino_e_aplico_llm_s_para_solucionar_problemas_de_negocio	string	8.a.12_Treino e aplico LLM's para solucionar problemas de negócio.
+p8_b_tecnicas_e_metodos_ds	string	8.b_tecnicas_e_metodos_ds
+p8_b_1_utilizo_modelos_de_regressao_linear_logistica_glm	string	8.b.1_Utilizo modelos de regressão (linear, logística, GLM).
+p8_b_2_utilizo_redes_neurais_ou_modelos_baseados_em_arvore_para_criar_modelos_de_classificacao	string	8.b.2_Utilizo redes neurais ou modelos baseados em árvore para criar modelos de classificação.
+p8_b_3_desenvolvo_sistemas_de_recomendacao_recsys	string	8.b.3_Desenvolvo sistemas de recomendação (RecSys).
+p8_b_4_utilizo_metodos_estatisticos_bayesianos_para_analisar_dados	string	8.b.4_Utilizo métodos estatísticos Bayesianos para analisar dados.
+p8_b_5_utilizo_tecnicas_de_nlp_natural_language_processing_para_analisar_dados_nao_estruturados	string	8.b.5_Utilizo técnicas de NLP (Natural Language Processing) para análisar dados não-estruturados.
+p8_b_6_utilizo_metodos_estatisticos_classicos_testes_de_hipotese_analise_multivariada_sobrevivencia_dados_longitudinais_inferenc	string	8.b.6_Utilizo métodos estatísticos clássicos (Testes de hipótese, análise multivariada, sobrevivência, dados longitudinais, inferência estatistica) para analisar dados.
+p8_b_7_utilizo_cadeias_de_markov_ou_hmm_s_para_realizar_analises_de_dados	string	8.b.7_Utilizo cadeias de Markov ou HMM\s para realizar análises de dados.
+p8_b_8_desenvolvo_tecnicas_de_clusterizacao_k_means_spectral_dbscan_etc	string	8.b.8_Desenvolvo técnicas de Clusterização (K-means, Spectral, DBScan etc).
+p8_b_9_realizo_previsoes_atraves_de_modelos_de_series_temporais_time_series	string	8.b.9_Realizo previsões através de modelos de Séries Temporais (Time Series).
+p8_b_10_utilizo_modelos_de_reinforcement_learning_aprendizado_por_reforco	string	8.b.10_Utilizo modelos de Reinforcement Learning (aprendizado por reforço).
+p8_b_11_utilizo_modelos_de_machine_learning_para_deteccao_de_fraude	string	8.b.11_Utilizo modelos de Machine Learning para detecção de fraude.
+p8_b_12_utilizo_metodos_de_visao_computacional	string	8.b.12_Utilizo métodos de Visão Computacional.
+p8_b_13_utilizo_modelos_de_deteccao_de_churn	string	8.b.13_Utilizo modelos de Detecção de Churn.
+p8_b_14_utilizo_llm_s_para_solucionar_problemas_de_negocio	string	8.b.14_Utilizo LLM's para solucionar problemas de negócio.
+p8_c_tecnologias_ds	string	8.c_tecnologias_ds
+p8_c_1_ferramentas_de_bi_powerbi_looker_tableau_qlik_etc	string	8.c.1_Ferramentas de BI (PowerBI, Looker, Tableau, Qlik etc).
+p8_c_2_planilhas_excel_google_sheets_etc	string	8.c.2_Planilhas (Excel, Google Sheets etc).
+p8_c_3_ambientes_de_desenvolvimento_local_r_studio_jupyterlab_anaconda	string	8.c.3_Ambientes de desenvolvimento local (R-studio, JupyterLab, Anaconda).
+p8_c_4_ambientes_de_desenvolvimento_na_nuvem_google_colab_aws_sagemaker_kaggle_notebooks_etc	string	8.c.4_Ambientes de desenvolvimento na nuvem (Google Colab, AWS Sagemaker, Kaggle Notebooks etc).
+p8_c_5_ferramentas_de_automl_datarobot_h2o_auto_keras_etc	string	8.c.5_Ferramentas de AutoML (Datarobot, H2O, Auto-Keras etc).
+p8_c_6_ferramentas_de_etl_apache_airflow_nifi_stitch_fivetran_pentaho_etc	string	8.c.6_Ferramentas de ETL (Apache Airflow, NiFi, Stitch, Fivetran, Pentaho etc).
+p8_c_7_plataformas_de_machine_learning_tensorflow_azure_machine_learning_kubeflow_etc	string	8.c.7_Plataformas de Machine Learning (TensorFlow, Azure Machine Learning, Kubeflow etc).
+p8_c_8_feature_store_feast_hopsworks_aws_feature_store_databricks_feature_store_etc	string	8.c.8_Feature Store (Feast, Hopsworks, AWS Feature Store, Databricks Feature Store etc).
+p8_c_9_sistemas_de_controle_de_versao_github_dvc_neptune_gitlab_etc	string	8.c.9_Sistemas de controle de versão (Github, DVC, Neptune, Gitlab etc).
+p8_c_10_plataformas_de_data_apps_streamlit_shiny_plotly_dash_etc	string	8.c.10_Plataformas de Data Apps (Streamlit, Shiny, Plotly Dash etc).
+p8_c_11_ferramentas_de_estatistica_avancada_como_spss_sas_etc	string	8.c.11_Ferramentas de estatística avançada como SPSS, SAS, etc.
+p8_d_maior_tempo_gasto_como_ds	string	8.d_maior_tempo_gasto_como_ds
+p8_d_1_estudos_ad_hoc_com_o_objetivo_de_confirmar_hipoteses_realizar_modelos_preditivos_forecasts_analise_de_cluster_para_resolv	string	8.d.1_Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos preditivos, forecasts, análise de cluster para resolver problemas pontuais e responder perguntas das áreas de negócio.
+p8_d_2_coletando_e_limpando_dos_dados_que_uso_para_analise_e_modelagem	string	8.d.2_Coletando e limpando dos dados que uso para análise e modelagem.
+p8_d_3_entrando_em_contato_com_os_times_de_negocio_para_definicao_do_problema_identificar_a_solucao_e_apresentacao_de_resultados	string	8.d.3_Entrando em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.
+p8_d_4_desenvolvendo_modelos_de_machine_learning_com_o_objetivo_de_colocar_em_producao_em_sistemas_produtos_de_dados	string	8.d.4_Desenvolvendo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).
+p8_d_5_colocando_modelos_em_producao_criando_os_pipelines_de_dados_apis_de_consumo_e_monitoramento	string	8.d.5_Colocando modelos em produção, criando os pipelines de dados, APIs de consumo e monitoramento.
+p8_d_6_cuidando_da_manutencao_de_modelos_de_machine_learning_ja_em_producao_atuando_no_monitoramento_ajustes_e_refatoracao_quand	string	8.d.6_Cuidando da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.
+p8_d_7_realizando_construcoes_de_dashboards_em_ferramentas_de_bi_como_powerbi_tableau_looker_qlik_etc	string	8.d.7_Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc.
+p8_d_8_utilizando_ferramentas_avancadas_de_estatistica_como_sas_spss_stata_etc_para_realizar_analises	string	8.d.8_Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises.
+p8_d_9_criando_e_dando_manutencao_em_etls_dags_e_automacoes_de_pipelines_de_dados	string	8.d.9_Criando e dando manutenção em ETLs, DAGs e automações de pipelines de dados.
+p8_d_10_criando_e_gerenciando_solucoes_de_feature_store_e_cultura_de_mlops	string	8.d.10_Criando e gerenciando soluções de Feature Store e cultura de MLOps.
+p8_d_11_criando_e_mantendo_a_infra_que_meus_modelos_e_solucoes_rodam_clusters_servidores_api_containers_etc	string	8.d.11_Criando e mantendo a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)
+p8_d_12_treinando_e_aplicando_llm_s_para_solucionar_problemas_de_negocio	string	8.d.12_Treinando e aplicando LLM's para solucionar problemas de negócio.
