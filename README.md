@@ -5,3 +5,10 @@ O projeto utiliza dados relacionados ao mercado brasileiro de Dados, Tecnologia 
 A solução foi desenvolvida utilizando serviços da **Amazon Web Services (AWS)**, principalmente **Amazon S3, AWS Glue, Glue Data Catalog, Apache Spark/PySpark e ferramentas de consulta analítica.**
 
 Este repositório foi estruturado de forma a representar, de maneira simplificada, a arquitetura implementada na AWS. Dessa forma, as pastas e arquivos aqui disponibilizados reproduzem o fluxo de processamento dos dados, desde a ingestão dos arquivos brutos até a disponibilização das tabelas analíticas utilizadas nas análises finais.
+
+**Autores:** 
+* Fabricio Rodrigues Lobato
+* Gabriel Marinho
+* Lucas Cruz
+* Paula Silvano Freire
+* Pedro Rodrigues dos Santos
