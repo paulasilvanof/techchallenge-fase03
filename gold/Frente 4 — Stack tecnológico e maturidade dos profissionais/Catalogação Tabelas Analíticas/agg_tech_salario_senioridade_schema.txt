@@ -1,0 +1,10 @@
+coluna	tipo	comentario
+ano_pesquisa	int	None
+categoria_tech	varchar(20)	None
+tecnologia	varchar(13)	None
+nivel_senioridade	string	None
+flag_adota	int	None
+grupo_adocao	varchar(16)	None
+quantidade_profissionais	bigint	None
+salario_medio	double	None
+salario_mediano	double	None

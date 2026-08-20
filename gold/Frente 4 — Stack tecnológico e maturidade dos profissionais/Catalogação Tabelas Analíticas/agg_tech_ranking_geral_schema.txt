@@ -1,0 +1,7 @@
+coluna	tipo	comentario
+ano_pesquisa	int	None
+categoria	varchar(20)	None
+tecnologia	varchar(13)	None
+total_respondentes	bigint	None
+total_usuarios	bigint	None
+pct_adocao	double	None

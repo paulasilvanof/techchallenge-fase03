@@ -1,0 +1,52 @@
+{
+    "table_name": "agg_tech_segmentos",
+    "database_name": "dados_gold",
+    "table_type": "EXTERNAL_TABLE",
+    "location": "s3://tech-challenge-014478672967/gold/agg_tech_segmentos/",
+    "input_format": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "output_format": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "serialization_library": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "columns": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "tipo_dimensao",
+            "Type": "varchar(11)",
+            "Parameters": {}
+        },
+        {
+            "Name": "categoria",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "tecnologia",
+            "Type": "varchar(13)",
+            "Parameters": {}
+        },
+        {
+            "Name": "categoria_tech",
+            "Type": "varchar(20)",
+            "Parameters": {}
+        },
+        {
+            "Name": "total_amostra",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "total_usuarios",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "pct_adocao",
+            "Type": "double",
+            "Parameters": {}
+        }
+    ],
+    "partition_keys": []
+}

@@ -1,0 +1,57 @@
+{
+    "table_name": "agg_tech_salario_senioridade",
+    "database_name": "dados_gold",
+    "table_type": "EXTERNAL_TABLE",
+    "location": "s3://tech-challenge-014478672967/gold/agg_tech_salario_senioridade/",
+    "input_format": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "output_format": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "serialization_library": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "columns": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "categoria_tech",
+            "Type": "varchar(20)",
+            "Parameters": {}
+        },
+        {
+            "Name": "tecnologia",
+            "Type": "varchar(13)",
+            "Parameters": {}
+        },
+        {
+            "Name": "nivel_senioridade",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "flag_adota",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "grupo_adocao",
+            "Type": "varchar(16)",
+            "Parameters": {}
+        },
+        {
+            "Name": "quantidade_profissionais",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_medio",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_mediano",
+            "Type": "double",
+            "Parameters": {}
+        }
+    ],
+    "partition_keys": []
+}

@@ -1,0 +1,9 @@
+coluna	tipo	comentario
+ano_pesquisa	int	None
+tipo_dimensao	varchar(11)	None
+categoria	string	None
+tecnologia	varchar(13)	None
+categoria_tech	varchar(20)	None
+total_amostra	bigint	None
+total_usuarios	bigint	None
+pct_adocao	double	None

@@ -1,0 +1,42 @@
+{
+    "table_name": "agg_tech_evolucao_anual",
+    "database_name": "dados_gold",
+    "table_type": "EXTERNAL_TABLE",
+    "location": "s3://tech-challenge-014478672967/gold/agg_tech_evolucao_anual/",
+    "input_format": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "output_format": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "serialization_library": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "columns": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "categoria_tech",
+            "Type": "varchar(20)",
+            "Parameters": {}
+        },
+        {
+            "Name": "tecnologia",
+            "Type": "varchar(13)",
+            "Parameters": {}
+        },
+        {
+            "Name": "total_pesquisa_ano",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "usuarios_tech",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "pct_adocao",
+            "Type": "double",
+            "Parameters": {}
+        }
+    ],
+    "partition_keys": []
+}
