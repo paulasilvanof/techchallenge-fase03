@@ -1,0 +1,10 @@
+coluna	tipo	comentario
+tipo_dimensao	varchar(20)	None
+ano_pesquisa	int	None
+categoria	string	None
+total_registros	bigint	None
+respostas_validas_salario	bigint	None
+salario_primeiro_quartil	double	None
+salario_mediano	double	None
+salario_terceiro_quartil	double	None
+salario_medio_grupo	double	None

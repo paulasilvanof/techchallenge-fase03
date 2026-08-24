@@ -1,0 +1,163 @@
+{
+    "nome_tabela": "ft_remuneracao_profissional",
+    "banco": "dados_gold",
+    "tipo_tabela": "EXTERNAL_TABLE",
+    "localizacao_s3": "s3://tech-challenge-014478672967/gold/frente_2_remuneracao/ft_remuneracao_profissional_v1/",
+    "formato_entrada": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "formato_saida": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "biblioteca_serializacao": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "colunas": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "id_unificado",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "atua_com_dados",
+            "Type": "boolean",
+            "Parameters": {}
+        },
+        {
+            "Name": "senioridade",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "senioridade_ordem",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "funcao_dados",
+            "Type": "varchar(23)",
+            "Parameters": {}
+        },
+        {
+            "Name": "cargo",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "faixa_exp_dados",
+            "Type": "varchar(15)",
+            "Parameters": {}
+        },
+        {
+            "Name": "faixa_exp_dados_ordem",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "escolaridade",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "escolaridade_ordem",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "regiao",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "uf",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "modelo_trabalho",
+            "Type": "varchar(18)",
+            "Parameters": {}
+        },
+        {
+            "Name": "setor",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "porte_empresa",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "porte_empresa_ordem",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "grupo_uso_ia",
+            "Type": "varchar(13)",
+            "Parameters": {}
+        },
+        {
+            "Name": "flag_usa_ia",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "linguagem_principal",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "cloud_preferida",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_medio",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_min",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_max",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "faixa_salarial",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "faixa_salarial_ordem",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_censurado",
+            "Type": "boolean",
+            "Parameters": {}
+        },
+        {
+            "Name": "tem_salario",
+            "Type": "boolean",
+            "Parameters": {}
+        }
+    ],
+    "particoes": [],
+    "parametros": {
+        "trino_version": "0.215-24619-g93e00a8",
+        "totalSize": "-1",
+        "has_encrypted_data": "false",
+        "EXTERNAL": "TRUE",
+        "numFiles": "-1",
+        "trino_query_id": "20260819_225453_00070_dygpv",
+        "auto.purge": "false",
+        "parquet.compression": "SNAPPY",
+        "transactional": "false"
+    }
+}
