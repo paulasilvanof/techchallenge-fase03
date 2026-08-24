@@ -1,0 +1,9 @@
+coluna	tipo	comentario
+ano_pesquisa	int	None
+nivel_comparavel	string	None
+nivel_ordem	int	None
+quantidade_profissionais	bigint	None
+salario_medio	double	None
+salario_q1	double	None
+salario_mediano	double	None
+salario_q3	double	None

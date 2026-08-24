@@ -1,0 +1,8 @@
+coluna	tipo	comentario
+ano_pesquisa	int	None
+tipo_dimensao	varchar(20)	None
+categoria	string	None
+ordem_categoria	int	None
+quantidade	bigint	None
+total_respostas_validas_dimensao	bigint	None
+pct_no_ano	double	None

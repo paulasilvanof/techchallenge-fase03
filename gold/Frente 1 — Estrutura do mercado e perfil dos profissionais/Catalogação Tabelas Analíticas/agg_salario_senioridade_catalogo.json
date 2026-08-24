@@ -1,0 +1,63 @@
+{
+    "nome_tabela": "agg_salario_senioridade",
+    "banco": "dados_gold",
+    "tipo_tabela": "EXTERNAL_TABLE",
+    "localizacao_s3": "s3://tech-challenge-014478672967/gold/frente_1_estrutura/agg_salario_senioridade_v1/",
+    "formato_entrada": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "formato_saida": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "biblioteca_serializacao": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "colunas": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "nivel_comparavel",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "nivel_ordem",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "quantidade_profissionais",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_medio",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_q1",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_mediano",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_q3",
+            "Type": "double",
+            "Parameters": {}
+        }
+    ],
+    "particoes": [],
+    "parametros": {
+        "trino_version": "0.215-24619-g93e00a8",
+        "totalSize": "-1",
+        "has_encrypted_data": "false",
+        "EXTERNAL": "TRUE",
+        "numFiles": "-1",
+        "trino_query_id": "20260819_221953_00169_ibdh8",
+        "auto.purge": "false",
+        "parquet.compression": "SNAPPY",
+        "transactional": "false"
+    }
+}

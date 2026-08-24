@@ -1,0 +1,58 @@
+{
+    "nome_tabela": "agg_estrutura_distribuicao",
+    "banco": "dados_gold",
+    "tipo_tabela": "EXTERNAL_TABLE",
+    "localizacao_s3": "s3://tech-challenge-014478672967/gold/frente_1_estrutura/agg_estrutura_distribuicao_v1/",
+    "formato_entrada": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "formato_saida": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "biblioteca_serializacao": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "colunas": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "tipo_dimensao",
+            "Type": "varchar(20)",
+            "Parameters": {}
+        },
+        {
+            "Name": "categoria",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "ordem_categoria",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "quantidade",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "total_respostas_validas_dimensao",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "pct_no_ano",
+            "Type": "double",
+            "Parameters": {}
+        }
+    ],
+    "particoes": [],
+    "parametros": {
+        "trino_version": "0.215-24619-g93e00a8",
+        "totalSize": "-1",
+        "has_encrypted_data": "false",
+        "EXTERNAL": "TRUE",
+        "numFiles": "-1",
+        "trino_query_id": "20260819_221931_00196_9seap",
+        "auto.purge": "false",
+        "parquet.compression": "SNAPPY",
+        "transactional": "false"
+    }
+}

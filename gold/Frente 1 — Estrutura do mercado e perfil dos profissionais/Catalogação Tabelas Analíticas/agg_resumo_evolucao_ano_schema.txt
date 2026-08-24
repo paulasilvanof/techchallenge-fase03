@@ -1,0 +1,8 @@
+coluna	tipo	comentario
+ano_pesquisa	int	None
+total_respondentes	bigint	None
+idade_media	double	None
+salario_mediano_geral	double	None
+qtd_cargos_distintos	bigint	None
+qtd_niveis_distintos	bigint	None
+qtd_regioes_distintas	bigint	None

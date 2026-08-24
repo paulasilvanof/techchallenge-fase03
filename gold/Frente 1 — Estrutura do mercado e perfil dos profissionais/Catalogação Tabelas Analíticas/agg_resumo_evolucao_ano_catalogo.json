@@ -1,0 +1,58 @@
+{
+    "nome_tabela": "agg_resumo_evolucao_ano",
+    "banco": "dados_gold",
+    "tipo_tabela": "EXTERNAL_TABLE",
+    "localizacao_s3": "s3://tech-challenge-014478672967/gold/frente_1_estrutura/agg_resumo_evolucao_ano_v1/",
+    "formato_entrada": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "formato_saida": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "biblioteca_serializacao": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "colunas": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "total_respondentes",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "idade_media",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_mediano_geral",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "qtd_cargos_distintos",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "qtd_niveis_distintos",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "qtd_regioes_distintas",
+            "Type": "bigint",
+            "Parameters": {}
+        }
+    ],
+    "particoes": [],
+    "parametros": {
+        "trino_version": "0.215-24619-g93e00a8",
+        "totalSize": "-1",
+        "has_encrypted_data": "false",
+        "EXTERNAL": "TRUE",
+        "numFiles": "-1",
+        "trino_query_id": "20260819_222005_00169_zaqxv",
+        "auto.purge": "false",
+        "parquet.compression": "SNAPPY",
+        "transactional": "false"
+    }
+}
