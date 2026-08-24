@@ -1,0 +1,68 @@
+{
+    "nome_tabela": "gold_genero_cargo",
+    "banco": "dados_gold",
+    "tipo_tabela": "EXTERNAL_TABLE",
+    "localizacao_s3": "s3://tech-challenge-014478672967/gold/frente_3_diversidade/gold_genero_cargo_v1/",
+    "formato_entrada": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetInputFormat",
+    "formato_saida": "org.apache.hadoop.hive.ql.io.parquet.MapredParquetOutputFormat",
+    "biblioteca_serializacao": "org.apache.hadoop.hive.ql.io.parquet.serde.ParquetHiveSerDe",
+    "colunas": [
+        {
+            "Name": "ano_pesquisa",
+            "Type": "int",
+            "Parameters": {}
+        },
+        {
+            "Name": "genero",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "cargo",
+            "Type": "string",
+            "Parameters": {}
+        },
+        {
+            "Name": "n_respondentes",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "n_com_salario",
+            "Type": "bigint",
+            "Parameters": {}
+        },
+        {
+            "Name": "soma_salario",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_medio",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "salario_mediano",
+            "Type": "double",
+            "Parameters": {}
+        },
+        {
+            "Name": "media_faixa_ordem",
+            "Type": "double",
+            "Parameters": {}
+        }
+    ],
+    "particoes": [],
+    "parametros": {
+        "trino_version": "0.215-24619-g93e00a8",
+        "totalSize": "-1",
+        "has_encrypted_data": "false",
+        "EXTERNAL": "TRUE",
+        "numFiles": "-1",
+        "trino_query_id": "20260819_222935_00061_ktnzc",
+        "auto.purge": "false",
+        "parquet.compression": "SNAPPY",
+        "transactional": "false"
+    }
+}

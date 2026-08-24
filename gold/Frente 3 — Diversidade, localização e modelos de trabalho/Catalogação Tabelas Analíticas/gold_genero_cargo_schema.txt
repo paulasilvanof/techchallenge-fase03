@@ -1,0 +1,10 @@
+coluna	tipo	comentario
+ano_pesquisa	int	None
+genero	string	None
+cargo	string	None
+n_respondentes	bigint	None
+n_com_salario	bigint	None
+soma_salario	double	None
+salario_medio	double	None
+salario_mediano	double	None
+media_faixa_ordem	double	None
