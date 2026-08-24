@@ -24,7 +24,6 @@ CREATE DATABASE IF NOT EXISTS dados_gold;
 
 -- ============================================================================
 -- 02. VIEW DE ORIGEM
--- Desacopla os CTAS do nome fisico da tabela Silver no Data Catalog.
 -- ============================================================================
 
 CREATE OR REPLACE VIEW dados_gold.vw_silver_estrutura_fonte AS
@@ -91,7 +90,6 @@ ORDER BY ano_pesquisa, tipo_dimensao, quantidade DESC;
 -- ============================================================================
 -- 04. REMUNERACAO POR CARGO
 -- Grao: ano + cargo. Mediana priorizada por ser robusta a outliers.
--- Indica associacao, nao causalidade.
 -- ============================================================================
 
 CREATE TABLE dados_gold.agg_salario_cargo
