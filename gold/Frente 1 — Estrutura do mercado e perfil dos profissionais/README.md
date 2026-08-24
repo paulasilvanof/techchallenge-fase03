@@ -8,4 +8,4 @@ Quanto aos perfis mais valorizados, a análise por cargo mostra uma hierarquia b
 
 Por fim, o mercado mostra-se fortemente concentrado geograficamente, com o Sudeste reunindo cerca de 64% dos profissionais em 2025, o que evidencia tanto a maturidade quanto a desigualdade regional do setor.
 
-Em síntese, o profissional de dados mais valorizado no Brasil é o de perfil sênior e especializado, num mercado que amadurece, remunera cada vez melhor a experiência e permanece concentrado no Sudeste. Esse retrato de estrutura e valorização estabelece a base para as frentes seguintes, que aprofundam competências técnicas, diversidade e o papel transformador da Inteligência Artificial.
+Em resumo, o profissional de dados mais valorizado no Brasil é o de perfil sênior e especializado, num mercado que amadurece, remunera cada vez melhor a experiência e permanece concentrado no Sudeste. Esse retrato de estrutura e valorização estabelece a base para as frentes seguintes, que aprofundam competências técnicas, diversidade e o papel transformador da Inteligência Artificial.
