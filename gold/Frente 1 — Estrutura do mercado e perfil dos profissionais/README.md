@@ -1,4 +1,4 @@
-Conclusão — Frente 1: Estrutura do mercado e perfil dos profissionais
+# Conclusão — Frente 1: Estrutura do mercado e perfil dos profissionais
 
 A análise da estrutura do mercado brasileiro de dados entre 2023 e 2025 revela um setor em processo de amadurecimento. A composição por senioridade mudou de forma clara no período: a participação de profissionais juniores caiu de 27% para 21%, enquanto a de sêniores subiu de 37% para 48%. O mercado deixou de ser predominantemente de entrada e passou a concentrar-se em perfis mais experientes — movimento reforçado pela leve elevação da idade média dos profissionais ao longo das três edições.
 
