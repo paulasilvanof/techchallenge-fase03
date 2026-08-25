@@ -1,0 +1,1 @@
+A quinta frente busca analisar as tecnologias mais usadas e quais são mais usadas pelas diferentes senioridades, exemplo: (Júnior, Pleno e Sênior), buscando uma stack, grupo de tecnologias, que são mais usadas e como a senioridade modifica a composição da stack.
