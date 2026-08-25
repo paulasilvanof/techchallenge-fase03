@@ -1,0 +1,2 @@
+Esta frente investiga o que está por trás da remuneração dos profissionais de dados no Brasil. A ideia é entender quais fatores estão associados a salários mais altos e como o mercado tem valorizado esses profissionais entre 2023 e 2025. Como a análise é observacional, os resultados são lidos como associações presentes na base, e não como relações de causa e efeito.
+O foco está sobre três recortes: a evolução dos salários ao longo do tempo, o peso combinado da área de atuação e da senioridade, e o retorno da formação acadêmica.
